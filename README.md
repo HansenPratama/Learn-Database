@@ -1,6 +1,6 @@
 Jalankan Apache dan MySQL  
 <p align="center">
-  <img width="460" height="300" src="C:\Users\MS1\Pictures\Screenshots\Screenshot (5).png
+  <img width="460" height="300" src="![Screenshot (5)](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/2739e0e7-a6ad-4d89-8a47-60eaa9145617)
 ">
 </p>
 
