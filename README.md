@@ -1,6 +1,7 @@
 Jalankan Apache dan MySQL  
 <p align="center">
-    <img width="200" src="http://material-bread.org/logo-shadow.svg">
+    <img width="200" src="https://imgur.com/undefined
+">
 </p>
 
 Buka localhost pada browser
