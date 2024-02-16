@@ -14,7 +14,4 @@ Penghapusan garis hubung antara tabel penjualan dan detail_penjualan
   <img width="460" height="300" src="https://i.imgur.com/oNtpp7o.png">
 </p>
 
-Data tetap bisa ditambahkan 
-<p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/khhfE4a.png">
-</p>
+Data Tetap tidak bisa ditambahkan karena nilai nya sudah ada atau data tersebut pernah ditambahkan sebelumnya
