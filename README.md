@@ -4,10 +4,15 @@ Jalankan Apache dan MySQL
 </p>
 
 Buka localhost pada browser
-![image](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/4ca28ef7-361a-4451-9558-042f45268304)
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/XZ7Qpy1.jpeg">
+</p>
 
 Buat Database baru dengan nama penjualan_produk
-![image](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/86c15274-7958-4226-a2ec-27ab4c6da628)
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/kCdoRPu.jpeg">
+</p>
+
 
 Import file SQL 
 ![image](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/e3ba20be-abd7-45ad-a99d-55faefbcb3cd)
