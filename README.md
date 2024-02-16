@@ -39,7 +39,9 @@ Tambahkan data penjualan sebagaimana berikut
 2.	tgl = 8 Februari 2021
 3.	kasir = Dini
 4.	total_penjualan = 10.000
-![image](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/a3c08332-ba65-4013-a657-ade0291b9261)
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/LxUH0JM.png">
+</p>
 
 SOAL 2
 Tambahkan data penjualan sebagaimana berikut 
