@@ -29,7 +29,9 @@ Diagram database penjualan_produk
 </p>
 
 List data barang
-![image](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/f75e204f-d4ec-4cb3-b505-676b013cc2bc)
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/nHQjwcz.png">
+</p>
 
 SOAL 1
 Tambahkan data penjualan sebagaimana berikut 
