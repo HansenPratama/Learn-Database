@@ -50,5 +50,20 @@ Pada nominal dari 5.000 menjadi 5000
 
 SOAL 6
 Duplikasi : duplikasi data terjadi ketika ada lebih dari satu baris dalam tabel yang memiliki nilai yang sama pada beberapa kolom, pada soal diatas contohnya, terdapat nilai yang sama pada kolom kode penjualan sehingga data tidak dapat ditambahkan.
+Inkonsisten data : Inkonsistensi data adalah munculnya data yang tidak konsisten pada kolom yang sama dalam satu atau beberapa file data yang dihubungkan.
 
+SOAL 7
+Tambahkan data detail_penjualan sebagaimana berikut <SOAL 7>
+- kode_penjualan = 2
+- kode_barang = 3
+- harga = 5.000
+- jumlah = 5
+![Screenshot 2024-02-16 080441](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/a115b57f-ae77-4563-b4a4-ae31876f36ed)
+Data tidak dapat ditambahkan karena data dengan kode_penjualan 2 telah ada sebelumnya/duplikat
+
+Penghapusan garis hubung antara tabel penjualan dan detail_penjualan
+![Screenshot 2024-02-15 204650](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/04dde220-dc6f-40a1-9b0c-05f3ad37b504)
+
+Data tetap bisa ditambahkan 
+![Screenshot 2024-02-16 093809](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/d1cc2a84-b462-4f65-8341-d23b3a9229e2)
 
