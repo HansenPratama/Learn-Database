@@ -17,6 +17,9 @@ Tambahkan data penjualan sebagaimana berikut
 <p align="center">
   <img width="460" height="300" src="https://i.imgur.com/GOAExIq.png">
 </p>
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/2FcZ2pH.png">
+</p>
 
 SOAL 3 
 Solusi untuk soal nomor 2 adalah mengganti kode penjualan dari 2 menjadi 4 karena kode penjualan tidak dapat di duplikat
