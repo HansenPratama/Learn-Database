@@ -50,7 +50,7 @@ Tambahkan data penjualan sebagaimana berikut
 3.	kasir = Dini
 4.	total_penjualan = 20.000
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://i.imgur.com/GOAExIq.png">
 </p>
 
 SOAL 3 
