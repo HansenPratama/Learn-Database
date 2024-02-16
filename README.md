@@ -1,6 +1,6 @@
 Jalankan Apache dan MySQL  
 <p align="center">
-    <img width="200" src="[[https://imgur.com/undefined](https://imgur.com/a/eq8VRLu)](https://i.imgur.com/cNTksiE.png)
+    <img width="200" src="https://imgur.com/undefined](https://imgur.com/a/eq8VRLu)](https://i.imgur.com/cNTksiE.png
 ">
 </p>
 
