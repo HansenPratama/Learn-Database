@@ -60,7 +60,9 @@ Solusi untuk soal nomor 2 adalah mengganti kode penjualan dari 2 menjadi 4 karen
 </p>
 
 SOAL 4
-![image](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/b2e00c08-9ddc-4bb4-9ca3-223f75cbf1c9)
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/L2eIkem.png">
+</p>
 Data dapat ditambahkan tetapi nominal harga berubah menjadi 5
 
 SOAL 5
