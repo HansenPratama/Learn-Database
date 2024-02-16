@@ -55,7 +55,9 @@ Tambahkan data penjualan sebagaimana berikut
 
 SOAL 3 
 Solusi untuk soal nomor 2 adalah mengganti kode penjualan dari 2 menjadi 4 karena kode penjualan tidak dapat di duplikat
-![image](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/52f85c0e-e571-449e-92f6-cae09fd969ca)
+<p align="center">
+  <img width="460" height="300" src="">
+</p>
 
 SOAL 4
 ![image](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/b2e00c08-9ddc-4bb4-9ca3-223f75cbf1c9)
