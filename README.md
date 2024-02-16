@@ -1,7 +1,6 @@
-<p align="center">
 Jalankan Apache dan MySQL  
-  <img width="460" height="300" src="![Screenshot (5)](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/a0e5a732-960e-4c1e-a420-4128444ef954)
-">
+<p align="center">
+  // ![Screenshot (5)](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/c2e25020-0b40-48d3-a95c-ec56c7de66b7)
 </p>
 
 Buka localhost pada browser
