@@ -5,7 +5,7 @@ Jalankan Apache dan MySQL
 
 Buka localhost pada browser
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/XZ7Qpy1.jpeg">
+  <img width="460" height="300" src="https://i.imgur.com/1Jn7Zrz.jpeg">
 </p>
 
 Buat Database baru dengan nama penjualan_produk
