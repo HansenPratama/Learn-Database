@@ -24,7 +24,9 @@ Nama database penjualan_produk muncul dalam daftar database
 </p>
 
 Diagram database penjualan_produk
-![image](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/982264ff-4140-4904-a0d6-c9cc39ef64ce)
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/l5A2l14.png">
+</p>
 
 List data barang
 ![image](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/f75e204f-d4ec-4cb3-b505-676b013cc2bc)
