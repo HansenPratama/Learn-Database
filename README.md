@@ -49,7 +49,9 @@ Tambahkan data penjualan sebagaimana berikut
 2.	tgl = 10 Februari 2021
 3.	kasir = Dini
 4.	total_penjualan = 20.000
-![image](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/77ab7e26-8715-41c3-bb2c-3a88b197948a)
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/qW5VQP4.png">
+</p>
 
 SOAL 3 
 Solusi untuk soal nomor 2 adalah mengganti kode penjualan dari 2 menjadi 4 karena kode penjualan tidak dapat di duplikat
