@@ -13,15 +13,15 @@ Buat Database baru dengan nama penjualan_produk
   <img width="460" height="300" src="https://i.imgur.com/kCdoRPu.jpeg">
 </p>
 
-
 Import file SQL 
 <p align="center">
   <img width="460" height="300" src="https://i.imgur.com/C1X5mCU.jpeg">
 </p>
 
-
 Nama database penjualan_produk muncul dalam daftar database
-![image](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/275cf2fe-edf8-467d-a03a-821b853e9a37)
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/lSa7gL2.jpeg">
+</p>
 
 Diagram database penjualan_produk
 ![image](https://github.com/HansenPratama/Learn-MyPHP-Admin/assets/160198005/982264ff-4140-4904-a0d6-c9cc39ef64ce)
