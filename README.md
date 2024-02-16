@@ -1,7 +1,6 @@
 Jalankan Apache dan MySQL  
 <p align="center">
-    <img width="200" src="https://imgur.com/undefined](https://imgur.com/a/eq8VRLu)](https://i.imgur.com/cNTksiE.png
-">
+  <img width="460" height="300" src="https://picsum.photos/460/300](https://i.imgur.com/cNTksiE.jpg">
 </p>
 
 Buka localhost pada browser
