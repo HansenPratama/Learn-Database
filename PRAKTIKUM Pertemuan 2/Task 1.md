@@ -5,5 +5,5 @@
 > Gambarkan kasus tersebut dalam bentuk table data relasional
 
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/ixkaegq.png">
+  <img width="560" height="300" src="https://i.imgur.com/ixkaegq.png">
 </p>
