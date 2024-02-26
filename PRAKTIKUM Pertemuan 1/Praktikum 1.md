@@ -15,11 +15,11 @@ Buat Database baru dengan nama penjualan_produk
 
 Import file SQL 
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://i.imgur.com/c26fyFM.png">
 </p>
 
 Nama database penjualan_produk muncul dalam daftar database
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/lSa7gL2.jpeg">
+  <img width="460" height="300" src="https://i.imgur.com/2a1Osqz.png">
 </p>
 
