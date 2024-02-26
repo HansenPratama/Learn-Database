@@ -26,7 +26,7 @@ Solusi untuk soal nomor 2 adalah mengganti kode penjualan dari 2 menjadi 4 karen
 
 SOAL 4
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/L2eIkem.png">
+  <img width="660" height="300" src="https://i.imgur.com/b7ht0ic.png">
 </p>
 Data dapat ditambahkan
 
