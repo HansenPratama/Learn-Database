@@ -5,12 +5,12 @@ Jalankan Apache dan MySQL
 
 Buka localhost pada browser
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/wBQ6tiw.png">
+  <img width="660" height="300" src="https://i.imgur.com/wBQ6tiw.png">
 </p>
 
 Buat Database baru dengan nama penjualan_produk
 <p align="center">
-  <img width="550" height="300" src="https://i.imgur.com/ULK5zTA.png">
+  <img width="750" height="300" src="https://i.imgur.com/ULK5zTA.png">
 </p>
 
 Import file SQL 
