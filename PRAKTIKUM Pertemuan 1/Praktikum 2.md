@@ -5,6 +5,6 @@ Diagram database penjualan_produk
 
 List data barang
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/oFgFXcK.png">
+  <img width="660" height="300" src="https://i.imgur.com/oFgFXcK.png">
 </p>
 
