@@ -28,14 +28,10 @@ SOAL 4
 <p align="center">
   <img width="460" height="300" src="https://i.imgur.com/L2eIkem.png">
 </p>
-Data dapat ditambahkan tetapi nominal harga berubah menjadi 5
+Data dapat ditambahkan
 
 SOAL 5
-Solusi untuk soal nomor 4 adalah dengan menghapus tanda titik “.” 
-Pada nominal dari 5.000 menjadi 5000
-<p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/AiYRCwD.png">
-</p>
+Tidak ada solusi karena data dapat ditambahkan
 
 SOAL 6
 Duplikasi : duplikasi data terjadi ketika ada lebih dari satu baris dalam tabel yang memiliki nilai yang sama pada beberapa kolom, pada soal diatas contohnya, terdapat nilai yang sama pada kolom kode penjualan sehingga data tidak dapat ditambahkan.
