@@ -5,13 +5,13 @@ Tambahkan data detail_penjualan sebagaimana berikut <SOAL 7>
 - harga = 5.000
 - jumlah = 5
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/QOya5hB.png">
+  <img width="460" height="300" src="https://i.imgur.com/LLIKAO0.png">
 </p>
 Data tidak dapat ditambahkan karena primary key 2 dan 3 telah ditambahkan sebelumnya dan tidak dapat di duplikat
 
 Penghapusan garis hubung antara tabel penjualan dan detail_penjualan
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/oNtpp7o.png">
+  <img width="460" height="300" src="https://i.imgur.com/PxLOhUF.png">
 </p>
 
 Data Tetap tidak bisa ditambahkan karena nilai nya sudah ada atau data tersebut pernah ditambahkan sebelumnya
