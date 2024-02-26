@@ -5,7 +5,7 @@ Tambahkan data penjualan sebagaimana berikut
 3.	kasir = Dini
 4.	total_penjualan = 10.000
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/pHBUbnq.png">
+  <img width="660" height="300" src="https://i.imgur.com/pHBUbnq.png">
 </p>
 
 SOAL 2
@@ -15,16 +15,13 @@ Tambahkan data penjualan sebagaimana berikut
 3.	kasir = Dini
 4.	total_penjualan = 20.000
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/GOAExIq.png">
-</p>
-<p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/2FcZ2pH.png">
+  <img width="460" height="300" src="https://i.imgur.com/DQkKsTm.png">
 </p>
 
 SOAL 3 
 Solusi untuk soal nomor 2 adalah mengganti kode penjualan dari 2 menjadi 4 karena kode penjualan tidak dapat di duplikat
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/qW5VQP4.png">
+  <img width="660" height="300" src="https://i.imgur.com/bF7Nlx0.png">
 </p>
 
 SOAL 4
