@@ -10,7 +10,7 @@ Buka localhost pada browser
 
 Buat Database baru dengan nama penjualan_produk
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/ULK5zTA.png">
+  <img width="550" height="300" src="https://i.imgur.com/ULK5zTA.png">
 </p>
 
 Import file SQL 
