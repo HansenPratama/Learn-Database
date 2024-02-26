@@ -5,7 +5,7 @@ Tambahkan data penjualan sebagaimana berikut
 3.	kasir = Dini
 4.	total_penjualan = 10.000
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/LxUH0JM.png">
+  <img width="460" height="300" src="https://i.imgur.com/pHBUbnq.png">
 </p>
 
 SOAL 2
