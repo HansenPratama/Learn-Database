@@ -2,5 +2,5 @@
 
 
 <p align="center">
-  <img width="1003" height="603" src="https://i.imgur.com/Tch30Vp.png">
+  <img width="1008" height="540" src="https://i.imgur.com/cIPaHz7.png">
 </p>
