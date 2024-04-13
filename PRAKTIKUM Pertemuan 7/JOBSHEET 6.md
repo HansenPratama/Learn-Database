@@ -8,7 +8,7 @@ PDM
   <img width="1504" height="558" src="https://i.imgur.com/lasIT3W.png">
 </p>
 
-SOAL 2
+SOAL 2 <br>
 CDM
 <p align="center">
   <img width="1114" height="683" src="https://i.imgur.com/E8Vi6Gy.png">
@@ -18,7 +18,7 @@ PDM
   <img width="1380" height="706" src="https://i.imgur.com/OlKWF7U.png">
 </p>
 
-SOAL 3
+SOAL 3 <br>
 CDM
 <p align="center">
   <img width="1389" height="799" src="https://i.imgur.com/KmqRab7.png">
