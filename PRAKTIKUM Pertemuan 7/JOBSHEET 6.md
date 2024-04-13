@@ -1,4 +1,4 @@
-SOAL 1
+SOAL 1 <br>
 CDM
 <p align="center">
   <img width="893" height="653" src="https://i.imgur.com/8KHPHkh.png">
