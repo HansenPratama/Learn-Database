@@ -34,9 +34,6 @@ Soal 7<br>
   <img width="1462" height="464" src="https://i.imgur.com/pDggO2D.png">
 </p>
 <p align="center">
-  <img width="1455" height="93" src="https://i.imgur.com/cnHNTN0.png">
-</p>
-<p align="center">
   <img width="1047" height="332" src="https://i.imgur.com/Lhn17KP.png">
 </p>
 <p align="center">
