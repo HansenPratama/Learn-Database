@@ -8,7 +8,7 @@ ORDER BY nama_user ASC
   <img width="1920" height="1080" src="https://i.imgur.com/rTeE3zr.png">
 </p>
 
-02.Querry Soal : <br>
+<h2>02.Querry Soal :</h2> <br>
 
 SELECT nama_user, tanggal_lahir
 FROM user
@@ -18,7 +18,7 @@ ORDER BY tanggal_lahir DESC;
   <img width="1920" height="1080" src="https://i.imgur.com/WUK8kQR.png">
 </p>
 
-03.Course Join : <br>
+<h2>03.Course Join :</h2> <br>
 
 SELECT
   kursus.judul,
@@ -33,7 +33,7 @@ ORDER BY total DESC;
   <img width="1920" height="1080" src="https://i.imgur.com/nXe236N.png">
 </p>
 
-04.Hewan Join : <br>
+<h2>04.Hewan Join :</h2> <br>
 
 SELECT
   user.nama,
@@ -49,7 +49,7 @@ LIMIT 1;
   <img width="1920" height="1080" src="https://i.imgur.com/K7BSasO.png">
 </p>
 
-05.Hewan Reservasi
+<h2>05.Hewan Reservasi</h2>
 
 SELECT jenis_peliharaan, COUNT(jenis_peliharaan) AS total
 FROM reservasi
