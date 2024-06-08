@@ -1,4 +1,4 @@
-01.Querry Demo : <br>
+<h2>01.Querry Demo :</h2> <br>
 
 SELECT nama_user
 FROM user
