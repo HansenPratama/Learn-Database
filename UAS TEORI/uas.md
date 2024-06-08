@@ -49,7 +49,7 @@ LIMIT 1;
   <img width="1920" height="1080" src="https://i.imgur.com/K7BSasO.png">
 </p>
 
-<h2>05.Hewan Reservasi</h2>
+<h2>05.Hewan Reservasi :</h2> <br>
 
 SELECT jenis_peliharaan, COUNT(jenis_peliharaan) AS total
 FROM reservasi
