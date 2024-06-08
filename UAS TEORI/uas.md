@@ -5,7 +5,7 @@ FROM user
 WHERE jenis_kelamin="P"
 ORDER BY nama_user ASC
 <p align="center">
-  <img width="1176" height="472" src="">
+  <img width="1920" height="1080" src="https://i.imgur.com/rTeE3zr.png">
 </p>
 
 02.Querry Soal : <br>
@@ -15,7 +15,7 @@ FROM user
 WHERE jenis_kelamin="L"
 ORDER BY tanggal_lahir DESC;
 <p align="center">
-  <img width="1176" height="472" src="">
+  <img width="1920" height="1080" src="https://i.imgur.com/WUK8kQR.png">
 </p>
 
 03.Course Join : <br>
@@ -30,7 +30,7 @@ WHERE transaksi.status = 'Completed'
 GROUP BY kursus.judul
 ORDER BY total DESC;
 <p align="center">
-  <img width="1176" height="472" src="">
+  <img width="1920" height="1080" src="https://i.imgur.com/nXe236N.png">
 </p>
 
 04.Hewan Join : <br>
@@ -46,7 +46,7 @@ GROUP BY user.nama
 ORDER BY total DESC
 LIMIT 1;
 <p align="center">
-  <img width="1176" height="472" src="">
+  <img width="1920" height="1080" src="https://i.imgur.com/K7BSasO.png">
 </p>
 
 05.Hewan Reservasi
@@ -55,5 +55,5 @@ SELECT jenis_peliharaan, COUNT(jenis_peliharaan) AS total
 FROM reservasi
 GROUP BY jenis_peliharaan;
 <p align="center">
-  <img width="1176" height="472" src="">
+  <img width="1920" height="1080" src="https://i.imgur.com/DyF26A4.png">
 </p>
