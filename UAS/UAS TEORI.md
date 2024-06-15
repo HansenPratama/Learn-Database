@@ -1,3 +1,4 @@
+<h2>SOAL 1</h2><br>
 Seorang mahasiswa ingin membuat sebuah aplikasi todo app dimana dengan menggunakan aplikasi ini mahasiswa tersebut dapat melakukan management terhadap tugas tugas yang harus dilaukaannya dalam sebuah aplikasi web.
 
 Aplikasi ini mengharuskan user melakukan login dengan menggunakan username dan password, username pada aplikasi ini harus unique dan tidakboleh sama dengan username dari user lain. password pada aplikasi ini harus di enkripsi dan memiliki panjang minimal 8 karakter terdiri dari angka dan huruf serta minimal satu simbol.
@@ -11,6 +12,7 @@ Sebuah category dapat digunakan pada banyak todo item dan satu todo item wajib m
   <img width="933" height="617" src="https://i.imgur.com/u8vjI5F.png">
 </p>
 
+<h2>SOAL 2</h2><br>
 Seorang content creator membutuhkan bantuan anda untuk membuatkan platform publikasi kontent kontennya.
 
 Platform ini berbentuk sebuah website dimana konten creator tersebut dapat mempublikasikan karya karyanya dalam bentuk sebuah berita secara online di internet.
@@ -30,6 +32,7 @@ Untuk mempermudah interaksi antara pembaca dan penulis di sistem berita ini seti
   <img width="1322" height="662" src="https://i.imgur.com/7yo8hmM.png">
 </p>
 
+<h2>SOAL 3</h2><br>
 Sebuah perusahaan ingin membuat aplikasi ramalan cuaca, aplikasi ini mewajibkan usernya untuk login menggunakan username dan password, user juga wajib memiliki user id yang unik untuk setiap usernya selain itu username harus unik dan tidak boleh ada user yang memiliki username yang sama.
 
 Untuk melihat prakiraan cuaca seorang user dapat menambahkan minimal satu atau lebih kota yang ingin dilihat prakiraan cuacanya. Di aplikasi ini suatu kota juga dapat ditambahkan oleh user lain yang ingin mengetahui prakiraan cuaca di kota tersebut.
